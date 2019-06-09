@@ -1,0 +1,6 @@
+{
+  "cmd": "terminal",
+  "params": {
+      "cmd": "ls -l"
+  }
+}
